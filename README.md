@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CachorroLoko - Seu Petshop de Confiança</title>
@@ -102,7 +101,7 @@
         <div class="services">
             <h2>Nossos Serviços</h2>
             <div class="service-description">
-              <img src="./img/cachorro.JPG" alt="Uma imagem de um cachorro">
+              <img src="./img/cachorro.jpg" alt="Uma imagem de um cachorro">
 
 
                 <p id="banho">
