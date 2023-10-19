@@ -102,8 +102,7 @@
         <div class="services">
             <h2>Nossos Serviços</h2>
             <div class="service-description">
-              <img src="petshop.html/blob/main/cachorro.jpg" alt="Uma imagem de um cachorro">
-
+              <img src="./img/cachorro.jpg" alt="Uma imagem de um cachorro">
 
                 <p id="banho">
                     <strong>Banho:</strong> Em nosso serviço de banho, oferecemos um tratamento de spa completo para o seu pet. Usamos produtos naturais e hipoalergênicos, garantindo que seu animal de estimação saia não apenas limpo, mas também relaxado e revigorado. Nossos banhistas especializados sabem como proporcionar uma experiência de bem-estar para o seu pet, deixando-o com um pelo brilhante e cheiroso.
