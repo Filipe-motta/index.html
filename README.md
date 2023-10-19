@@ -102,7 +102,7 @@
         <div class="services">
             <h2>Nossos Serviços</h2>
             <div class="service-description">
-              <img src="./img/cachorro.JPG" alt="Uma imagem de um cachorro">
+              <img src="./img/cachorro.jpg" alt="Uma imagem de um cachorro">
 
 
                 <p id="banho">
